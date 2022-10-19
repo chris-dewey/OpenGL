@@ -1,6 +1,5 @@
 # OpenGL
 
-Design and Development Approach:
 Given an objective, I strategize my design around modular, digestable, bite-sized components.
 In a graphic based application, building a base structure around establishing the key dependencies, window object, and
 shaders, I created a simple vertex array and sent data to draw a simple triangle. As long as everything renders properly,
